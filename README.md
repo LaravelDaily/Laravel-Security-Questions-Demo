@@ -2,13 +2,11 @@
 
 Project to showcase so-called "Security Questions" to additionally protect some more sensitive routes.
 
-![Laravel Security Questions screenshot](https://quickadminpanel.com/blog/wp-content/uploads/2020/04/Screen-Shot-2020-04-11-at-9.22.39-PM.png)
-
 ---
 
-![Laravel Room Booking screenshot 01](https://quickadminpanel.com/blog/wp-content/uploads/2020/04/Screen-Shot-2020-04-16-at-8.34.58-AM.png)
+![Laravel Security Questions screenshot 01](https://quickadminpanel.com/blog/wp-content/uploads/2020/04/Screen-Shot-2020-04-16-at-8.34.58-AM.png)
 
-![Laravel Room Booking screenshot 02](https://quickadminpanel.com/blog/wp-content/uploads/2020/04/Screen-Shot-2020-04-16-at-8.34.29-AM.png)
+![Laravel Security Questions screenshot 02](https://quickadminpanel.com/blog/wp-content/uploads/2020/04/Screen-Shot-2020-04-16-at-8.34.29-AM.png)
 
 ---
 
